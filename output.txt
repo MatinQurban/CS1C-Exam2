@@ -1,0 +1,97 @@
+matinq@Matins-MacBook-Pro CS1C-Exam2 % ./main  
+#### Using print() function ####
+-------Air Vehicle-------
+0x16f41f198
+Special Move: 
+Taking Flight...
+-------------------------
+-------Land Vehicle-------
+0x16f41f0b8
+Special Move: 
+Moving backwards..
+0x16f41efe8
+Special Move: 
+Moving backwards..
+-------------------------
+-------Water Vehicle-------
+0x16f41ef18
+Special Move: 
+Embarking on Journey...
+-------------------------
+
+
+ ############################### 
+
+
+<< operator on Plane
+VIN: 123456789
+Color: Red
+Manufacturer: Boeing
+Year: 2015
+Type: Plane
+
+Special Move: 
+Taking Flight...
+-------------------------
+== operator on Vehicles[0] Plane and Vehicles[0] Plane
+1
+
+-------------------------
+!= operator on Vehicles[0] Plane and Vehicles[0] Plane
+0
+
+-------------------------
+<< operator on Car
+VIN: 987654321
+Color: Blue
+Manufacturer: Ford
+Year: 2010
+Type: Car
+
+Special Move: 
+Moving backwards..
+-------------------------
+== operator on Vehicles[1] Car and Vehicles[1] Car
+1
+
+-------------------------
+!= operator on Vehicles[1] Car and Vehicles[1] Car
+0
+
+-------------------------
+<< operator on Boat
+VIN: 123456789
+Color: Green
+Manufacturer: Boat
+Year: 2015
+Type: Boat
+
+Special Move: 
+Embarking on Journey...
+-------------------------
+== operator on Vehicles[2] Boat and Vehicles[2] Boat
+1
+
+-------------------------
+!= operator on Vehicles[2] Boat and Vehicles[2] Boat
+0
+
+-------------------------
+<< operator on Motorcycle
+VIN: 987654321
+Color: Blue
+Manufacturer: Ford
+Year: 2010
+Type: Motorcycle
+
+Special Move: 
+Moving backwards..
+-------------------------
+== operator on Vehicles[3] Motorcycle and Vehicles[3] Motorcycle
+1
+
+-------------------------
+!= operator on Vehicles[3] Motorcycle and Vehicles[3] Motorcycle
+0
+
+-------------------------
